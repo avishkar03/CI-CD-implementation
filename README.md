@@ -1,5 +1,3 @@
-# AIM: Study DevOps and implement CI/CD pipeline:
-
 # Netlify Setup:
 
 - Signup/Login on https://www.netlify.com/
